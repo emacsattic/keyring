@@ -277,7 +277,7 @@ Returns t when the output buffer needs to be cleared"
 
 ;; Copyright (C) 2006-7  Ivan Kanis
 ;; Author: Ivan Kanis
-;; $Id: keyring.el 2044 2007-11-01 18:25:33Z ivan $
+;; 
 ;;
 ;; This program is free software ; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
